@@ -1,1 +1,3 @@
 The is additional third file
+
+I am about to delete all files
